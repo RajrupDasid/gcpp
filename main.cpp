@@ -6,5 +6,5 @@ int main()
 	cout<<"openSUSE Linux"<<endl;
 	cout<<"Hello World"<<endl;//new line statement
 	cout<<"How are you today?"<<endl;//new line statement 
-	return 0;
+	return 0; 
 }
